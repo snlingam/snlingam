@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @snlingam
+- 👋 Hi, I’m Shiva Nischal Lingam
 - 👀 I’m interested in data science and human psychology
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data analysis projects
+- 🌱 I’m currently a PhD
+- 💞️ I’m looking to collaborate on human-computer interaction projects
 
 <!---
 snlingam/snlingam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
